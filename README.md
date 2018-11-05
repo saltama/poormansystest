@@ -1,4 +1,4 @@
-# Poor Man's Systest
+# ⚙️Poor Man's Systest
 
 Basic Linux Performance Tests in a script.
 
